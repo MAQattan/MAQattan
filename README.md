@@ -18,7 +18,7 @@ An electrical power systems engineer specializing in power distribution, power s
 
 - **Education:** B.Sc. in Electrical Power Engineering – University of Aleppo.
 - **Academic Distinction:** Ranked 1st in class during 2nd and 3rd academic years.
-- **Specializations:** Power System Protection, Substation Design, High-Voltage Systems, Smart Grid Automation.
+- **Passionate about:** Automation, forecasting, and data analysis.
 </details>
 
 ### 📌 Featured Projects
