@@ -13,10 +13,10 @@ An electrical power systems engineer specializing in power distribution, buildin
 
 > [!NOTE]
 > ### 🎓 Academic Background & Continuous Learning
-> * 🎓 **Education:** B.Sc. in Electrical Power Systems Engineering – University of Aleppo
-> * 🏆 **Academic Excellence:** Ranked **1st in class** during 2nd & 3rd academic years
-> * 🔭 **Current Focus:** Designing with `Revit Electrical` & `Dialux EVO` | Advancing proficiency in `Python`
-> * ⚡ **Engineering Passions:** Industrial Automation, Data Analysis, and Predictive Forecasting in Power Systems
+> * **Education:** B.Sc. in Electrical Power Systems Engineering – University of Aleppo
+> * **Academic Excellence:** Ranked **1st in class** during 2nd & 3rd academic years
+> * **Current Focus:** Designing with `Revit Electrical` & `Dialux EVO` | Advancing proficiency in `Python`
+> * **Engineering Passions:** Industrial Automation, Data Analysis, and Predictive Forecasting in Power Systems
 
 ### ⚡ GitHub Streak
 <p align="center">
