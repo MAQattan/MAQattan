@@ -11,7 +11,7 @@ An electrical power systems engineer specializing in power distribution, buildin
 - **Programming & Simulation:** `MATLAB (App Designer & GUI)` | `Python` | `C++`
 - **Documentation & Productivity:** `Typst` | `LaTeX` | `Obsidian` | `Notion`
 
-details>
+<details>
 <summary><b>🎓 Academic Background & Continuous Learning</b></summary>
 
 <br>
