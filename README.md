@@ -11,20 +11,12 @@ An electrical power systems engineer specializing in power distribution, buildin
 - **Programming & Simulation:** `MATLAB (App Designer & GUI)` * `Python` * `C++`
 - **Documentation & Productivity:** `Typst` * `LaTeX` * `Obsidian` * `Notion`
 
-<details>
-<summary><b>🎓 Academic Background & Continuous Learning</b></summary>
-
-<br>
-
-- **Education:** B.Sc. in Electrical Power Systems Engineering – Faculty of Electrical & Electronic Engineering, University of Aleppo.
-- **Academic Excellence:** Ranked 1st in class during 2nd and 3rd academic years.
-- **Current Focus & Hands-on Projects:** Designing with `Revit Electrical` & `Dialux EVO` | Advancing proficiency in `Python`.
-- **Engineering Passions:** Industrial Automation, Data Analysis, and Predictive Forecasting in Power Systems.
-</details>
-
-### 📌 Featured Projects
-- ☀️ **[Grid-Tied Solar PV System](https://github.com/MAQattan/grid-tied-solar-pv-system):** Complete design and performance analysis of a grid-connected photovoltaic system.
-- 🏢 **[Bank Electrical Systems Design](https://github.com/MAQattan/bank-electrical-systems-design):** Institutional-grade power distribution and weak-current design for commercial banking infrastructure.
+> [!NOTE]
+> ### 🎓 Academic Background & Continuous Learning
+> * 🎓 **Education:** B.Sc. in Electrical Power Systems Engineering – University of Aleppo
+> * 🏆 **Academic Excellence:** Ranked **1st in class** during 2nd & 3rd academic years
+> * 🔭 **Current Focus:** Designing with `Revit Electrical` & `Dialux EVO` | Advancing proficiency in `Python`
+> * ⚡ **Engineering Passions:** Industrial Automation, Data Analysis, and Predictive Forecasting in Power Systems
 
 ### ⚡ GitHub Streak
 <p align="center">
