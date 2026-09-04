@@ -7,9 +7,9 @@
 An electrical power systems engineer specializing in power distribution, power system analysis, and the design of grid-connected renewable energy systems. I am passionate about automation and data analysis, and I am actively developing my skills in these areas.
 
 ### 🛠️ Engineering Tools & Technologies
-- **Power & PV Systems:** 'AutoCAD' | 'ETAP' | 'PVsyst' | 'Dialux EVO' 
-- **Programming & Simulation:** 'MATLAB' | 'Python' | 'C++'
-- **Documentation & Productivity:** 'Typst' | 'LaTeX' | 'Obsidian' | 'Notion'
+- **Power & PV Systems:** `AutoCAD` | `ETAP` | `PVsyst` | `Dialux EVO` 
+- **Programming & Simulation:** `MATLAB` | `Python` | `C++`
+- **Documentation & Productivity:** `Typst` | `LaTeX` | `Obsidian` | `Notion`
 
 <details>
 <summary><b>🎓 Academic Highlights & Specializations</b></summary>
@@ -32,4 +32,4 @@ An electrical power systems engineer specializing in power distribution, power s
 
 ### 📬 Connect with Me
 [![Email](https://img.shields.io/badge/Email-mu.ali.qattan%40gmail.com-c14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mu.ali.qattan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maqattan/)
