@@ -7,9 +7,9 @@
 An electrical power systems engineer specializing in power distribution, building electrical design, and grid-connected renewable energy systems. Driven by industrial automation, data analysis, and predictive forecasting to optimize modern energy solutions.
 
 ### 🛠️ Engineering Tools & Technologies
-- **Power & PV Systems:** `AutoCAD` | `ETAP` | `PVsyst` | `Dialux EVO` 
-- **Programming & Simulation:** `MATLAB (App Designer & GUI)` | `Python` | `C++`
-- **Documentation & Productivity:** `Typst` | `LaTeX` | `Obsidian` | `Notion`
+- **Power & PV Systems:** `AutoCAD` * `ETAP` * `PVsyst` * `Dialux EVO` 
+- **Programming & Simulation:** `MATLAB (App Designer & GUI)` * `Python` * `C++`
+- **Documentation & Productivity:** `Typst` * `LaTeX` * `Obsidian` * `Notion`
 
 <details>
 <summary><b>🎓 Academic Background & Continuous Learning</b></summary>
