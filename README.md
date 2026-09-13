@@ -18,11 +18,6 @@ An electrical power systems engineer specializing in power distribution, buildin
 - **Programming & Simulation:** `MATLAB (App Designer & GUI)` | `Python` | `C++`
 - **Documentation & Productivity:** `Typst` | `LaTeX` | `Obsidian` | `Notion`
 
-### ⚡ GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAQattan&theme=tokyonight&hide_border=true" alt="MAQattan Streak" />
-</p>
-
 ### 📬 Connect with Me
 [![Email](https://img.shields.io/badge/Email-mu.ali.qattan%40gmail.com-c14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mu.ali.qattan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maqattan/)
