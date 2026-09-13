@@ -6,16 +6,17 @@
 
 An electrical power systems engineer specializing in power distribution, building electrical design, and grid-connected renewable energy systems. Driven by industrial automation, data analysis, and predictive forecasting to optimize modern energy solutions.
 
+### 🎓 Academic Background & Continuous Learning
+* **Education:** B.Sc. in Electrical Power Systems Engineering – University of Aleppo
+* **Overall Grade:** 80.56% (Very Good Standing)
+* **Academic Excellence:** Ranked **1st in class** during 2nd & 3rd academic years
+* **Current Focus:** Designing with `Revit Electrical` & `Dialux EVO` | Advancing proficiency in `Python`
+* **Engineering Passions:** Industrial Automation, Data Analysis, and Predictive Forecasting in Power Systems
+
 ### 🛠️ Engineering Tools & Technologies
 - **Power & PV Systems:** `AutoCAD` | `ETAP` | `PVsyst` | `Dialux EVO` 
 - **Programming & Simulation:** `MATLAB (App Designer & GUI)` | `Python` | `C++`
 - **Documentation & Productivity:** `Typst` | `LaTeX` | `Obsidian` | `Notion`
-
-### 🎓 Academic Background & Continuous Learning
-* **Education:** B.Sc. in Electrical Power Systems Engineering – University of Aleppo
-* **Academic Excellence:** Ranked **1st in class** during 2nd & 3rd academic years
-* **Current Focus:** Designing with `Revit Electrical` & `Dialux EVO` | Advancing proficiency in `Python`
-* **Engineering Passions:** Industrial Automation, Data Analysis, and Predictive Forecasting in Power Systems
 
 ### ⚡ GitHub Streak
 <p align="center">
